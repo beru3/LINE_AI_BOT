@@ -1,3 +1,17 @@
 2025-09-19 11:44:10,329 - INFO - 'occupations' table created successfully.
 2025-09-19 11:44:10,329 - INFO - Inserting data into 'occupations' table...
 2025-09-19 11:44:10,419 - INFO - 1 records inserted into 'occupations' table.
+2025-09-19 13:20:56,901 - INFO - Removed existing database file: occupations.db
+2025-09-19 13:20:56,911 - ERROR - Failed to read or parse column definitions: 'çÄñ⁄éÌï '
+2025-09-19 13:20:56,916 - ERROR - Could not proceed without column definitions.
+2025-09-19 13:21:56,041 - INFO - Loaded 0 skill columns, 0 knowledge columns, 0 task columns.
+2025-09-19 13:21:56,041 - ERROR - Could not proceed without column definitions.
+2025-09-19 13:22:50,915 - INFO - Loaded 0 skill columns, 0 knowledge columns, 0 task columns.
+2025-09-19 13:22:50,915 - ERROR - Could not proceed without column definitions.
+2025-09-19 13:24:02,805 - INFO - Loaded 0 skill columns, 0 knowledge columns, 1 task columns.
+2025-09-19 13:24:02,805 - INFO - Creating database tables...
+2025-09-19 13:24:02,829 - INFO - Tables created successfully.
+2025-09-19 13:24:02,830 - INFO - Processing data\numeric_data.csv...
+2025-09-19 13:24:02,986 - INFO - Finished processing numeric data.
+2025-09-19 13:24:02,986 - INFO - Processing data\description_data.csv...
+2025-09-19 13:24:03,149 - INFO - Finished processing description data.
