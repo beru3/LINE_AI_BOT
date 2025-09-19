@@ -1,0 +1,37 @@
+2025-09-19 13:31:41,225 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.30:5000
+2025-09-19 13:31:41,225 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-19 13:52:45,396 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.30:5000
+2025-09-19 13:52:45,398 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-19 15:23:12,694 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.30:5000
+2025-09-19 15:23:12,694 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-19 15:24:01,403 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.30:5000
+2025-09-19 15:24:01,403 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-19 15:29:31,743 - INFO - Request body: {"destination":"Uebcb4c3baa911dbd4139cef790f2510b","events":[]}
+2025-09-19 15:29:31,747 - INFO - 127.0.0.1 - - [19/Sep/2025 15:29:31] "POST /callback HTTP/1.1" 200 -
+2025-09-19 15:31:04,878 - INFO - Request body: {"destination":"Uebcb4c3baa911dbd4139cef790f2510b","events":[{"type":"message","message":{"type":"text","id":"579539071060148384","quoteToken":"tPCdJxHZtHIR3h_5Og-4dT_eEzQg3fDP3dRAEbU_uJHc2okgGLw_mivnGFs7JX2hI34sNZjRYqdDRLItcjtkhEnG0MmYX4wLNyZRHbmqmuV7HACqUpW251A0H63wPHDqKDe3NzFh6sMzhB70HRYDQw","text":"1"},"webhookEventId":"01K5GAR000SY1W79RZCY8SW78E","deliveryContext":{"isRedelivery":false},"timestamp":1758263508798,"source":{"type":"user","userId":"U126913d9c9ec347b82c325959b7c95d1"},"replyToken":"53410cfd0afd4243beedb60b5646c393","mode":"active"}]}
+2025-09-19 15:31:04,878 - INFO - Received message: 1 from user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:04,882 - INFO - Found 183 occupations for query: '1'
+2025-09-19 15:31:05,039 - INFO - Replied to user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:05,042 - INFO - 127.0.0.1 - - [19/Sep/2025 15:31:05] "POST /callback HTTP/1.1" 200 -
+2025-09-19 15:31:30,627 - INFO - Request body: {"destination":"Uebcb4c3baa911dbd4139cef790f2510b","events":[{"type":"message","message":{"type":"text","id":"579539114060415562","quoteToken":"B6SNnciNsDk_hkGj246E8ebhKi4eh265etcuJYgppdSGEu20lL0_Ih_Phbef6dUL7nh1QghuV-KslXAJgNJOpeWFX7Yoc_Wep02VnzpzR5cYiAiyjPYnVpmxjkpt2pukgBjg-40IBxFy_YurCSjRcQ","text":"Ç«Ç‰Ç±Ç∆ÅH"},"webhookEventId":"01K5GARS6JWFZ0QY8C2CNZFTKQ","deliveryContext":{"isRedelivery":false},"timestamp":1758263534458,"source":{"type":"user","userId":"U126913d9c9ec347b82c325959b7c95d1"},"replyToken":"e4d8164273044290998cb6c92871908a","mode":"active"}]}
+2025-09-19 15:31:30,629 - INFO - Received message: Ç«Ç‰Ç±Ç∆ÅH from user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:30,629 - INFO - Found 0 occupations for query: 'Ç«Ç‰Ç±Ç∆ÅH'
+2025-09-19 15:31:30,781 - INFO - Replied to user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:30,781 - INFO - 127.0.0.1 - - [19/Sep/2025 15:31:30] "POST /callback HTTP/1.1" 200 -
+2025-09-19 15:31:44,677 - INFO - Request body: {"destination":"Uebcb4c3baa911dbd4139cef790f2510b","events":[{"type":"message","message":{"type":"text","id":"579539137800438204","quoteToken":"bDxYBxjvUQKJle0EZ2tLv5FhkJsA1K3yn6MChYH6fseWVspZ6KLRZmcAIOqj7nRVAFhu6pbjE6IpARHxA15mz0AYzcIhL2-vOp1cuyDRWHVBPUjhBKsnnOxtsvvV4IoKUJKosUiXHv3uxDrVICdp5g","text":"éññ±êE"},"webhookEventId":"01K5GAS6WQ3VF0BX4WPCPS2GBD","deliveryContext":{"isRedelivery":false},"timestamp":1758263548528,"source":{"type":"user","userId":"U126913d9c9ec347b82c325959b7c95d1"},"replyToken":"706f0216e270441389d99a633041bbf2","mode":"active"}]}
+2025-09-19 15:31:44,677 - INFO - Received message: éññ±êE from user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:44,677 - INFO - Found 0 occupations for query: 'éññ±êE'
+2025-09-19 15:31:44,827 - INFO - Replied to user: U126913d9c9ec347b82c325959b7c95d1
+2025-09-19 15:31:44,830 - INFO - 127.0.0.1 - - [19/Sep/2025 15:31:44] "POST /callback HTTP/1.1" 200 -
