@@ -1,0 +1,3 @@
+2025-09-19 11:39:57,072 - INFO - Reading CSV file: IPD_DL_numeric_6_01.csv with encoding 'shift-jis'...
+2025-09-19 11:39:57,173 - INFO - Successfully loaded the data. Displaying first 5 rows:
+2025-09-19 11:39:57,381 - INFO - Successfully converted and saved the data to occupation_data.csv in UTF-8 format.
